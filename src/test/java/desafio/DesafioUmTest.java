@@ -39,7 +39,7 @@ public class DesafioUmTest {
                 .botaoAdicionarUsuario()
                 .formularioAdicionarNome("Teste")
                 .formularioAdicionarUltimoNome("Teste")
-                .formularioAdicionarNomeProprio("Lucas José")
+                .formularioAdicionarNomeProprio("Carlos Magnum")
                 .formularioAdicionarCelular("51 9999-9999")
                 .formularioAdicionarEnderecoUm("Av Assis Brasil, 3970")
                 .formularioAdicionarEnderecoDois("Torre Brasil")
